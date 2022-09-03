@@ -32,7 +32,10 @@ body{
       display: block;
     }
     ol{
-      border-right:none;
+        width:auto;
+        border-top: 1px solid gray;
+        border-bottom: 1px solid gray;
+        border-right:none;
     }
     h1 {
       border-bottom:none;
